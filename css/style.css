@@ -208,7 +208,7 @@ header nav .form i {
 /* Start main page */
 .landing {
     min-height: 100vh;
-    background-image: url(/main.jpg);
+    background-image: url(../main.png);
     background-size: cover;
     position: relative;
     background-attachment: fixed;
@@ -353,7 +353,7 @@ header nav .form i {
     height: 600px;
     width: 100%;
     position: relative;
-    background-image: url(/images/design.jpg);
+    background-image: url(../design.png);
     background-size: cover;
     display: flex;
     align-items: center;
